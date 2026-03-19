@@ -1,0 +1,7 @@
+app1.py
+.venv/
+__pycache__/
+*.pyc
+app2.py
+dataset_blood_group/
+test.py
